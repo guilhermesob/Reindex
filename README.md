@@ -1,2 +1,2 @@
-# Reindex.html
+# Reindex
 exemples of index on.
